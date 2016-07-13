@@ -1,2 +1,2 @@
 # learning-python
-A bucket of pythons
+My bucket of phyton snippets, built following the assignements on [LearnPython](http://www.learnpython.org/)
